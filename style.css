@@ -35,4 +35,15 @@ body {
     .isi {
         width: 100%;
     }
+    .frame {
+        margin-top: 80px;
+        width: 185px;
+        height: 290px;
+    }
+
+    .foto {
+        background-size: 150px 350px;
+        width: 150px;
+        height: 250px;
+    }
 }
