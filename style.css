@@ -1,0 +1,29 @@
+body {
+    background-color: #EAE0DA;
+}
+.logo {
+    height: 50px;
+}
+
+.hero {
+    display: flex !important;
+    flex-wrap: wrap;
+}
+
+.bungkus {order: 2 !important;}
+.profile {order: 1 !important;}
+
+.frame {
+    width: 335px;
+    height: 440px;
+    border: 2px solid rgb(10, 92, 234) !important;
+    border-radius: 40%;
+}
+.foto {
+    background-image: url(img/Rifqi_with_Almet_Polsri_HD_Version.jpg) !important;
+    background-size: 300px 500px;
+    background-repeat: no-repeat;
+    border-radius: 40%;
+    width: 300px;
+    height: 400px;
+}
