@@ -19,7 +19,12 @@ body {
     flex-wrap: wrap;
 }
 
-.bungkus {order: 2 !important;}
+.isi {display: flex;}
+
+.bungkus {
+    order: 2 !important;
+    justify-content: center !important;
+}
 .profile {order: 1 !important;}
 
 .title h1 {
