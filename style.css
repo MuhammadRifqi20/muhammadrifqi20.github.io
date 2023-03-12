@@ -8,7 +8,9 @@
     box-sizing: border-box;
 }
 body {
-    background-color: #EAE0DA;
+    background-image: url(img/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .logo {
     height: 50px;
@@ -29,6 +31,7 @@ body {
 
 .title h1 {
     font-family: 'Rubik Iso', cursive;
+    color: aliceblue;
 }
 
 .title h2 {
@@ -41,6 +44,10 @@ body {
     background-repeat: no-repeat;
     width: 400px;
     height: 500px;
+}
+
+.profile{
+    color: aliceblue;
 }
 
 .profile p {
